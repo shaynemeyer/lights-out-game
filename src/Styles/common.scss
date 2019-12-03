@@ -1,0 +1,19 @@
+:root {
+  --bodybg: #212121;
+  --fontColor: white;
+  --bgcolor: #282c34;
+  --links: #61dafb;
+  // --cellbg: darkgray;
+  --cellbg: #263238;
+  // --litbg: white;
+  --litbg: #00bcd4;
+  --orange: #fb4264;
+  --orangeShadow: #f40a35;
+  --neonBlue: #426dfb;
+  --neonBlueShadow: #2356ff;
+}
+
+@font-face {
+  font-family: neon;
+  src: url('/fonts/neon.ttf');
+}

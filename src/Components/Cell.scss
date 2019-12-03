@@ -1,0 +1,13 @@
+@import '../Styles/common.scss';
+
+.Cell {
+  height: 100px;
+  width: 100px;
+  background-color: var(--cellbg);
+  border-radius: 1px;
+  transition: background-color 0.7s ease
+}
+
+.lit {
+  background-color: var(--litbg);
+}
