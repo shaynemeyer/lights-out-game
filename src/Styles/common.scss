@@ -15,5 +15,5 @@
 
 @font-face {
   font-family: neon;
-  src: url('/fonts/neon.ttf');
+  src: local('neon') url(fonts/neon.ttf) format('tff');
 }
