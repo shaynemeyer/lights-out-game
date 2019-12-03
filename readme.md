@@ -21,4 +21,4 @@ The goal of the game is to click the tiles so that all the tiles are the highlig
 * Add reset game.
 * Add highscores.
 
-Play it online [here](https://zhzgl.csb.app/)
+Play it online [here](https://shaynemeyer.github.io/lights-out-game)
